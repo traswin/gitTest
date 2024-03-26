@@ -9,6 +9,7 @@ public class Sum {
         System.out.println("The sum of the numbers from 1 to 100 is " + sum);
         System.out.println("test");
         System.out.println("test");
+        System.out.println("test");
     }
 }
     
